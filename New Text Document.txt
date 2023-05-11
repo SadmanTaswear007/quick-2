@@ -1,0 +1,3 @@
+sky #0c66ff
+navy #0f2656
+red #f15767
